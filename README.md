@@ -9,11 +9,9 @@
 
 ## Installation
 
-N/A
-
 ## Usage
 
-Each section contains notes about Prework study guide, if you open DevTools console you will see JavaScript running. 
+
 
 ## Credits
 
